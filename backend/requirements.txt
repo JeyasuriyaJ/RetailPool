@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+lightgbm
+scikit-learn
+pandas
+joblib
+pydantic
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+python-socketio
+python-multipart
